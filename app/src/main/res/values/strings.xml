@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecureSMS</string>
+
+    <!-- Tabs -->
+    <string name="tab_conversations">Chats</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_compare">RSA vs ECC</string>
+    <string name="tab_keys">My keys</string>
+
+    <!-- Conversations -->
+    <string name="btn_new_conversation">+  New conversation</string>
+    <string name="conv_empty">No conversations yet.\n\nTap "New conversation" to write to someone. When someone writes to you first, their conversation appears here by itself.</string>
+    <string name="conv_delete_title">Delete this conversation?</string>
+    <string name="conv_delete_msg">The messages are removed from this phone. The verified keys are kept.</string>
+
+    <!-- Chat -->
+    <string name="hint_phone">Phone number or IP address</string>
+    <string name="hint_message">Type a message…</string>
+    <string name="status_enter_phone">Enter contact\'s phone number or IP address to get started.</string>
+    <string name="btn_verify">Verify</string>
+    <string name="btn_restart">Restart</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_send">Send</string>
+
+    <!-- RSA vs ECC -->
+    <string name="btn_bench">Benchmark</string>
+    <string name="btn_selftest">Self-test</string>
+    <string name="btn_sizes">SMS sizes</string>
+    <string name="btn_export_raw">Export raw</string>
+    <string name="btn_export_summary">Export summary</string>
+    <string name="cb_live">Live</string>
+
+    <!-- My keys -->
+    <string name="keys_help">Here you manage the key mode and view your fingerprint.\n\nPick a mode, check the fingerprint shown, and use \"Rotate key\" if you need to regenerate the identity.</string>
+    <string name="btn_rotate">Rotate key</string>
+</resources>

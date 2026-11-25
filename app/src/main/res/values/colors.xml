@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_root">#100D12</color>
+    <color name="bg_surface">#1A121A</color>
+    <color name="bg_field">#261B24</color>
+    <color name="border_field">#503343</color>
+
+    <color name="text_primary">#F8E9F1</color>
+    <color name="text_hint">#BAA0B1</color>
+
+    <color name="accent">#EDACCB</color>
+    <color name="accent_text">#351B2B</color>
+
+    <color name="status_bg">#32202C</color>
+    <color name="status_border">#523044</color>
+    <color name="status_text">#F0BBD3</color>
+
+    <color name="secondary_bg">#30202C</color>
+    <color name="secondary_border">#634056</color>
+    <color name="secondary_text">#F1C8DE</color>
+
+    <color name="chat_bg">#140F16</color>
+    <color name="chat_border">#3C2736</color>
+
+    <color name="dot_connected">#ADE1C1</color>
+    <color name="dot_waiting">#E9A4C4</color>
+</resources>
